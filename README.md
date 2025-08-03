@@ -1,2 +1,3 @@
-# House_price_prediction
+## House_price_prediction
 This is a repository of a house price prediction project using sklearn 
+This Project is made with the help of California Housing Price Data Set , It is a simple project which promises to predict the house price according to the California Housing parice data set . This is a Raw project which means you will have to enter the data manually into the program as you wish and will need to change the code a bit for handling the new data the program by default runs with a pre determined test set seperated from the Housing price data using pure python and with the help of a class called the StratifiedShuffleSplit...
